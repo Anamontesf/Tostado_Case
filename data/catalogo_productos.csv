@@ -1,0 +1,9 @@
+id_producto,nombre,categoria,costo_unitario,precio_venta,costo_almacenamiento_semanal
+PROD_001,Tinto,Bebidas,800,2500,10
+PROD_002,Café con Leche,Bebidas,1200,3500,15
+PROD_003,Cappuccino,Bebidas,1500,4500,15
+PROD_004,Pan de Bono,Alimentos,1000,2800,20
+PROD_005,Buñuelo,Alimentos,800,2500,20
+PROD_006,Croissant,Alimentos,1200,3500,25
+PROD_007,Pastel de Pollo,Alimentos,1500,3500,30
+PROD_008,Jugo de Naranja,Bebidas,2000,5000,50
