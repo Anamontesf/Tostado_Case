@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Virtual envs / package managers
+.venv/
+venv/
+.python-version
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs (regenerables)
+outputs/*.csv
+outputs/*.png
+outputs/*.parquet
+outputs/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modelos serializados
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+logs/
